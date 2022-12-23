@@ -1,0 +1,39 @@
+nav {
+    font-weight: 700;
+    font-size: 20px;
+    border-bottom: 2px solid rgb(61, 61, 57);
+    width: 30%;
+    margin: 1.555%;
+    font-family: sans-serif;
+    padding: 10px 0;
+    color: rgb(242, 243, 244);
+
+}
+
+
+
+
+
+img {
+    width: 30%;
+    height: 10%;
+    margin-left: 1.555%;
+    transition: 1s;
+    margin-bottom: 20px;
+
+
+}
+
+img:hover {
+    transform: scale3d(1.1, 1.1, 1.1);
+    cursor: pointer;
+
+}
+
+img:nth-of-type(5) {
+    height: 560px;
+}
+
+body {
+    background-color: rgb(7, 7, 7);
+}

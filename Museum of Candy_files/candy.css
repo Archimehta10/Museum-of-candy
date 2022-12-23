@@ -1,0 +1,62 @@
+body {
+    background: #f5d9d5;
+    font-family: "raleway", sans-serif;
+}
+
+a.navbar-brand {
+    padding-left: 10px;
+
+}
+
+.blurb h2 {
+    color: #ea1c2c;
+    font-weight: 100;
+}
+
+.blurb p {
+    color: #f88c95;
+    font-weight: 100;
+    font-size: 1.125rem;
+    line-height: 2;
+}
+
+#mainNavbar .navbar-brand {
+    color: #ea1c2c;
+    font-size: 1.8rem;
+}
+
+#mainNavbar {
+    font-size: 1.3rem;
+    font-weight: 100;
+}
+
+#mainNavbar .nav-link {
+    color: white;
+
+}
+
+#mainNavbar .nav-link:hover {
+    color: #ea1c2c;
+}
+
+span.slash {
+    color: #ea1c2c;
+}
+
+
+p.lead {
+    font-size: 13px;
+}
+
+.content {
+    margin-top: 100px;
+}
+
+
+
+@media(max-width:1200px) {
+    span.slash {
+        font-weight: 100;
+        font-size: 4rem;
+    }
+}
